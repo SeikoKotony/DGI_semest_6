@@ -1,4 +1,4 @@
-one_hundred=100
-five_hundred='500'
-print(str(one_hundred) + five_hundred)
-print(one_hundred + int(five_hundred))
+snake='38.2'
+length=6.5
+result= float(snake) * length
+print(int(result))
